@@ -1,6 +1,6 @@
 # A Gentle Introduction to MMMAudio
 
-This repository hosts a number of tutorials to get you started working with MMMAudio. Tutorials are made using Jupyter Notebooks, interactive files that run right in VSCode.
+This repository hosts a number of tutorials to get you started working with MMMAudio. Tutorials are made using Jupyter Notebooks, interactive files that run right in VSCode. When possible, the tutorials here-in will provide equivalent code for the SuperCollider language.
 
 If you somehow got here and don't have MMMAudio installed, see the [MMMAudio repo](https://github.com/mmmaudio/mmmaudio) for instructions on how to install it.
 
@@ -14,3 +14,22 @@ The tutorials in this repo do not assume that you know Python, however it can be
 ### Learning Mojo
 
 The tutorials in this repo expect you to have *no* experience with Mojo. You'll learn as you go along.
+
+
+# Roadmap
+Legend:
+* ✅ - No changes incoming
+* 🚧 - May change/have additions
+* ❌ - Not started
+
+Topics in no particular order:
+
+* Mojo Primer 🚧
+* Hello MMMAudio ✅
+* Sending Messages 🚧
+* Oscillators ❌
+* Buffers and Soundfiles ❌
+* Envelopes ❌
+* Live Signal ❌
+* Scheduling/Patterns ❌
+* Multichannel and Panning ❌
