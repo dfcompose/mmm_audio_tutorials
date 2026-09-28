@@ -33,3 +33,5 @@ Topics in no particular order:
 * Live Signal ❌
 * Scheduling/Patterns ❌
 * Multichannel and Panning ❌
+* MIDI/OSC ❌
+* Reusing Code - Building your own library ❌
